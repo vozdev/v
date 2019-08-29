@@ -17,7 +17,7 @@
   "author": "Charles Northcutt",
   "license": "Unlicense",
   "bugs": {
-    "url": "voz.dev"
+    "url": "voz./fstack"
   },
   "homepage": "https://github.com/vozdev/v#readme",
   "devDependencies": {
