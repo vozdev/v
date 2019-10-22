@@ -18,7 +18,7 @@
 
 declare -a default=(
 	charlie@voz.zone
-	/home/charlie/boom
+	/home/charlie/test
 	https://voz.zone/boom
 )
 
